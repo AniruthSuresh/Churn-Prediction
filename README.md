@@ -1,6 +1,4 @@
-Certainly! Let's expand on each method for handling imbalanced datasets in your Churn Prediction project.
 
----
 
 # Churn Prediction Using Artificial Neural Networks (ANN)
 
